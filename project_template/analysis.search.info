@@ -1,0 +1,27 @@
+# This file records a search analysis
+
+# Name of the scientist who carried out the search
+name:
+
+# Aim of the search - are you looking for something specific? Or are you looking for unknowns
+aim:
+
+# Search method used (e.g. blastn, megablast, blastx, blat, diamond, kraken)
+method:
+
+# Database searched against, e.g. Genbank nr, custom database. If Genbank also include the date that the search was carried out (or the date the database was downloaded from Genbank. For custom databases, please upload the custom database and put the link here)
+database:
+database_date:
+custom_db_link:
+
+# Query. Is the query one sequence from a file or a file of sequences? Please provide details
+query:
+
+# Command. This should contain the full search command used to show all the parameters used in the search. This would normally be the linux command used to run the search.
+command:
+
+# Results file. The location of the results file
+results:
+
+# Results summary. Did you find what you were looking for? Or not? Is another type of search required
+results_summary:

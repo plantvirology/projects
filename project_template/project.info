@@ -1,0 +1,20 @@
+# This file contains overview project information
+
+# Full project name
+name:
+
+# Organiser name, email (optional), github username, institute affiliation
+organiser:
+email:
+github:
+affiliation:
+
+# Is this project funded? If so, who by?
+funding:
+
+# Main viral target (species, genus), metagenomic discovery, unknown.
+target:
+
+# Collaborators. As more people become involved in the project, they should be listed here along with their institute affiliations and github usernames.
+collaborators:
+

@@ -1,0 +1,16 @@
+# This file contains information about the QC strategy applied to a dataset and the outcome of the QC
+
+# The name of the scientist who carried out the quality control
+name:
+
+# The link to the raw reads that were subjected to quality control
+raw_reads:
+
+# The Quality control strategy. This should be a list of methods and parameters (command line inputs) that were used to QC the raw reads.
+qc_strategy:
+
+# The link to the sequences which have passed quality control 
+passed_QC_reads:
+
+# Any additional information that may be useful for downstream analysis (links to sequence length histograms, GC content plots, scripts used in QC etc).
+additional_info:

@@ -1,0 +1,17 @@
+# This file contains information about large scale multiple sequence alignments which are carried out on partial or full viral genomes
+
+# The name of the scientist who carried out the alignment
+name:
+
+# The method used to align the sequences e.g. clustalW, mafft and the software version
+method:
+version:
+
+# The input sequences file (link to an uploaded file)
+input_sequences:
+
+# The full command line commands used (i.e. parameters) used to carry out the alignment
+command:
+
+# Resulting multiple sequence alignment file (link to an uploaded file)
+alignment:

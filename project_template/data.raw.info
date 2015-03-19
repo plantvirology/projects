@@ -1,0 +1,31 @@
+# This file contains information about the raw sequencing data for a particular sample or sequencing dataset
+
+# Sample. This should be a link to the sample.info file that this dataset originates from
+sample:
+
+# Local name that the sample/dataset is called
+name:
+
+# The sequencing platform for this dataset e.g. Illumina MiSeq, 454, PacBio
+sequencing_platform:
+
+# The company or insitute which carried out the sequencing
+sequencing_location:
+
+# The read lengths of the sequencing if it is a specified length (i.e. Illumina)
+read_length:
+
+# DNA or RNA sequencing
+molecule_type:
+
+# Is this data a paired end sequencing run? True or False
+paired_end:
+
+# Is this data a mate paired sequencing run? True or False
+mate_pairs:
+
+# The insert size used
+insert_size:
+
+# Raw data location. This should be a list of links to the raw data files which have been uploaded (github,ftp,SRA)
+raw_data_location:

@@ -1,0 +1,34 @@
+# This file provides metadata about a sample
+
+# Unique name for the sample
+sample_name:
+
+# Geographical location where the sample was isolated (either GPS coordinates or a grid reference)
+geographical_location:
+
+# Date of collection
+collection_date:
+
+# Name of collector
+collected_by:
+
+# Institute or affiliation of the person who collected the sample
+collected_by_affiliation:
+
+# Host species name
+host_species:
+
+# Host species taxonomy ID from NCBI
+host_species_ncbi:
+
+# Host tissue (e.g. lesion, stem, leaf)
+host_tissue:
+
+# An idea of the number of viruses present: single, multiple, unknown
+viruses_present:
+
+# Should this sample be considered a metagenome? i.e. it is not from tissue culture
+metagenome_sample:
+
+# The taxonomic names of the viruses known to be present in this sample
+viruses_present:

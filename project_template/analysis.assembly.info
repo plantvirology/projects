@@ -1,0 +1,18 @@
+# This file contains the information about an assembly
+
+# Name of the scientist who carried out the assembly
+name:
+
+# Type of assembly carried out (de novo, reference). If a reference genome is used, record its accession/identifier
+type:
+reference_genome:
+
+# Method (e.g. newbler, trinity, spades) and software version
+method:
+version:
+
+# Sequence data used (link to the data files)
+sequences:
+
+# Command. This should contain the full program command used to carry out the assembly to include the parameters used
+command:

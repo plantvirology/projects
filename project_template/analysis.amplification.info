@@ -1,0 +1,24 @@
+# This file contains information about an amplification reaction that is related to the sample currently under investigation
+
+# The name of the scientist who carried out the amplification reaction
+name:
+
+# Amplification type e.g. PCR, RT-PCR, TaqMan, LAMP
+type:
+
+# Assay target e.g. viral species, viral genera, plant species
+target:
+
+# Assay information e.g. primer and probe sequences if used. Cycling conditions.
+assay_primer_sequences:
+assay_probe_sequences:
+assay_cycling_conditions:
+
+# A link to the sample.info file relating to the sample that this amplification reaction was carried out on
+sample:
+
+# A link to the data.raw.info file relating to any subsequent next-generation sequencing files from this sample
+data:
+
+# The results e.g. virus positive, virus negative, CT value
+result:
