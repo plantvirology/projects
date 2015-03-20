@@ -1,0 +1,20 @@
+# This file contains overview project information
+
+# Full project name
+name: Identifying new plant viruses from transcriptomic and metagenomic datasets from NCBI/SRA
+
+# Organiser name, email (optional), github username, institute affiliation
+organiser: Rachel Glover
+email: rachel.glover@fera.gsi.gov.uk
+github: rachelglover
+affiliation: FERA
+
+# Is this project funded? If so, who by?
+funding: Not funded
+
+# Main viral target (species, genus), metagenomic discovery, unknown.
+target: metagenomic discovery
+
+# Collaborators. As more people become involved in the project, they should be listed here along with their institute affiliations and github usernames.
+collaborators:
+
